@@ -24,5 +24,11 @@ The Labs is form of several pole:
 -	Ressource Lab
 
 [MANQUE QLQ CHOSE ICI]
-	
+
+# My point view:
+The given work was enriching and coherent with my lessons. I was entirely satisfied with the working atmosphere. One of the best part was that I was discovering problems and resolution by myself.
+
+My placement was benefit, because I applied my current knowledge in the Web development. I also discovered difficulties of web projects. My placement was also benefit for the media library since employees use the application I made. Thanks to this placement I also learntnew working process and tools.
+[MANQUE QLQ CHOSE ICI]
+
 
